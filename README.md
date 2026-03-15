@@ -30,9 +30,9 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
-
+![img alt](https://github.com/manobalamanobala47-code/EXP-5/blob/main/WhatsApp%20Image%202026-03-15%20at%2010.37.51%20PM.jpeg)
 V-I & REGULATION CHARACTERISTICS:
-
+![img alt](
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
